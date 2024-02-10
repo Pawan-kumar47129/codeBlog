@@ -1,2 +1,3 @@
 # codeBlog
-Reponsive Page layout
+<h4>Author-Pawan Kumar</h4>
+<p>Responsive BeautiFul Page Layout.</p>
