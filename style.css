@@ -25,7 +25,8 @@ a{
 .header{
     width: 80%;
     padding: 3px;
-    margin-bottom: 3rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
 }
 .grid{
     width: 100%;
@@ -47,6 +48,7 @@ a{
 @media screen and (max-width:550px){
     .grid{
     grid-template-columns: repeat(1,1fr);
+    width: 90%;
     margin: auto;
     }
     .card{
