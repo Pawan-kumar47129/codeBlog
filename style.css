@@ -41,6 +41,10 @@ a{
     }
 }
 @media screen and (max-width:960px){
+    .container{
+        width: 95%;
+        margin: 0 auto;
+    }
     .grid{
     grid-template-columns: repeat(2,1fr);
     }
@@ -49,7 +53,7 @@ a{
     .grid{
     grid-template-columns: repeat(1,1fr);
     width: 90%;
-    margin: auto;
+    margin: 0 auto;
     }
     .card{
         width: 250px;
